@@ -2,7 +2,7 @@
   <div style="flex: 1; max-width: 70%;">
   </div>
 
-  <div style="flex-shrink: 0; margin-left: 80px;">
+  <div style="flex-shrink: 0; margin-left: 20px;">
     <img 
       align="right" 
       src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjkxa3g4NjkzNDNwN3pkY3dieXkxeWhvdng0d2c2OGxzcmg2djJyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif" 
