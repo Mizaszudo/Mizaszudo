@@ -3,14 +3,17 @@
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Minecraft&pause=1000&color=FFFFFF&background=FF000000&width=435&lines=Wellcome+To+Mizas+Profile" alt="Typing SVG" />
     </a>
-    <p style="color: #FFFFFF; margin-top: 10px;">
-      Estudante de Análise e Desenvolvimento de Sistemas na Faculdade UniBH de Belo Horizonte. Atualmente trabalho como editor de vídeo e estudo Unity paralelamente. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-    </p>
+
   </div>
-  <div style="flex-shrink: 0; margin-left: 20px;">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZlOXRvMGl5bzIxZDV1cG1wYzB1N3BwMjVxbTkyODBtN2toOTQ4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" alt="Decorative GIF" style="width: 250px; height: auto;" />
+  <div style="flex-shrink: 0; margin-left: 80px;">
+    <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZlOXRvMGl5bzIxZDV1cG1wYzB1N3BwMjVxbTkyODBtN2toOTQ4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" alt="Decorative GIF" style="width: 300px; height: auto;" />
   </div>
 </div>
+    
+  <p style="color: #FFFFFF; margin-top: 10px;">
+      Estudante de Análise e Desenvolvimento de Sistemas na Faculdade UniBH de Belo Horizonte. Atualmente trabalho como editor de vídeo e estudo Unity paralelamente. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+    </p>
+  
 
 <h3 align="left" style="color: #FFFFFF;">Connect with me!</h3>
 
