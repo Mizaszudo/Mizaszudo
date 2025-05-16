@@ -3,7 +3,7 @@
    </div>
 
 <div style="flex-shrink: 0; margin-left: 80px;">
-    <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZlOXRvMGl5bzIxZDV1cG1wYzB1N3BwMjVxbTkyODBtN2toOTQ4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" alt="Decorative GIF" style="width: 300px; height: auto;" />
+    <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZlOXRvMGl5bzIxZDV1cG1wYzB1N3BwMjVxbTkyODBtN2toOTQ4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" alt="Decorative GIF" style="width: 350px; height: auto;" />
   </div>
 </div>
   
