@@ -7,7 +7,7 @@
       align="right" 
       src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXV0cGczYjZkeWh0eWx1d2gxbWc0dGNwenpocDZwdW9udzBrNGw3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5yBQraVyL7N28/giphy.gif" 
       alt="Decorative GIF" 
-      style="width: 500px; height: auto;" 
+      style="width: 350px; height: auto;" 
     />
   </div>
 </div>
