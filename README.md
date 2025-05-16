@@ -32,3 +32,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mizaszudo&show_icons=true&theme=dark&hide_title=true&text_color=FFFFFF&icon_color=FFFFFF&bg_color=000000" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizaszudo&layout=compact&theme=dark&text_color=FFFFFF&icon_color=FFFFFF&bg_color=000000" alt="Top Languages" />
 </div>
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
