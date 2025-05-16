@@ -27,7 +27,7 @@
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
-#
+
 
 <h3 align="left" style="color: #FFFFFF;">Connect with me!</h3>
 
@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="Unity" />
 </div>
 
-#
+
 
 <h3 align="left" style="color:#FFFFFF;">GitHub Stats</h3>
 
@@ -62,7 +62,7 @@
   />
 </div>
 
-#
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mizaszudo/Mizaszudo/output/github-contribution-grid-snake-dark.svg">
