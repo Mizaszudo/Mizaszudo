@@ -5,9 +5,9 @@
   <div style="flex-shrink: 0; margin-left: 80px;">
     <img 
       align="right" 
-      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZlOXRvMGl5bzIxZDV1cG1wYzB1N3BwMjVxbTkyODBtN2toOTQ4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" 
+      src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjkxa3g4NjkzNDNwN3pkY3dieXkxeWhvdng0d2c2OGxzcmg2djJyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif" 
       alt="Decorative GIF" 
-      style="width: 380px; height: auto;" 
+      style="width: 500px; height: auto;" 
     />
   </div>
 </div>
